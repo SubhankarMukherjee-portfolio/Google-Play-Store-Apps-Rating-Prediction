@@ -30,9 +30,9 @@ Dataset = "https://github.com/SubhankarMukherjee-portfolio/Google-Play-Store-App
 16)	How does content rating (age group) affect app ratings?
 17)	What is the relationship between the number of reviews and app ratings?
 18)	Among apps rated 5 stars, how many are free vs. paid?
-19)	Machine Learning Applied – 
-Can we predict app ratings using regression models based on features like size, installs, reviews, and price?
-Can we classify apps (e.g., high-rated vs. medium rated vs. low-rated) using classification models based on available attributes?
+19)	Machine Learning Applied –
+      Can we predict app ratings using regression models based on features like size, installs, reviews, and price?
+      Can we classify apps (e.g., high-rated vs. medium rated vs. low-rated) using classification models based on available attributes?
 
 ## Libraries Used
 The following Python libraries were used during the data cleaning, exploration, visualization, and analysis phases:
