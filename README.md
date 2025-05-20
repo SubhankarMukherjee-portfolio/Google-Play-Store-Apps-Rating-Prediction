@@ -3,7 +3,7 @@ This project focuses on analyzing the Google Play Store dataset to gain meaningf
 
 
 ## Dataset used
-Dataset =
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Google-Play-Store-Apps-Rating-Prediction/blob/main/googleplaystore.csv?plain=1"
 
 ## The goal of this project is to:
 1) Clean and preprocess the raw data
@@ -48,10 +48,10 @@ The following Python libraries were used during the data cleaning, exploration, 
 10) WordCloud – to generate word clouds from app names or descriptions to show common terms
 
 ## Python file (Jupyter Notebook)
-Python File =
+Python File = "https://github.com/SubhankarMukherjee-portfolio/Google-Play-Store-Apps-Rating-Prediction/blob/main/Google%20Playstore%20Apps%20rating%20Prediction%20_%20ML%20_%20FA%20_%20DA%20and%20SQL%20projects%20.ipynb"
 
 ## PowerPoint presentation
-PPT =
+PPT = "https://github.com/SubhankarMukherjee-portfolio/Google-Play-Store-Apps-Rating-Prediction/blob/main/Google%20Playstore%20Apps%20rating%20Prediction.pptx"
 
 
 ## ML model results
